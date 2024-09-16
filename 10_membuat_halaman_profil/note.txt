@@ -1,0 +1,6 @@
+Buat halaman profil yang mencakup:
+Struktur HTML dasar.
+Heading, paragraf, dan link.
+Gambar profil.
+Tabel untuk informasi tambahan.
+Form untuk menghubungi pemilik profil.

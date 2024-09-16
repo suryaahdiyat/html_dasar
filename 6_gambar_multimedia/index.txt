@@ -1,0 +1,7 @@
+<img src="assets/imgs/img-1.png" alt="Deskripsi gambar" width="300">
+
+<video src="assets/videos/video-1.mp4" controls width="500">
+  Browser tidak mendukung video.
+</video>
+
+<audio src="assets/sounds/sound-1.mp3" controls>someting</audio>

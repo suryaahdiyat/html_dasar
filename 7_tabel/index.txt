@@ -1,0 +1,16 @@
+<table border="1">
+  <tr>
+    <th>Nama</th>
+    <th>Umur</th>
+  </tr>
+  <tr>
+    <td>Ani</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>Budi</td>
+    <td>25</td>
+  </tr>
+</table>
+colspan
+rowspan

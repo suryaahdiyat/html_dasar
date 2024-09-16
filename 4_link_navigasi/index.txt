@@ -1,0 +1,5 @@
+<a href="https://www.google.com" target="_blank">Kunjungi Google</a>
+<a href="#section2">Lompat ke Section 2</a>
+
+<h2 id="section2">Section 2</h2>
+<p>Ini adalah section kedua yang ditautkan dari link di atas.</p>

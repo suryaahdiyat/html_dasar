@@ -1,0 +1,4 @@
+<h1>Heading Level 1</h1>
+<p>Ini adalah contoh paragraf. <em>Italic</em> dan <strong>Bold</strong>.</p>
+<hr>
+<p>Ini paragraf kedua.<br>Dengan line break di tengah kalimat.</p>
